@@ -5,6 +5,7 @@
 - 🔭 Estou trabalhando atualmente em desenvolvimento web com Wordpress
 - 🌱 Estou aprendendo atualmente Linguagem R e Python
 - 😄 Pronomes: ele/dele
+- - Meu perfil pessoal: [GitHub](https://github.com/RafaelGuedes953)
 
 <div>
   <a href="https://github.com/RafaelGuedes953">
